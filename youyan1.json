@@ -3,7 +3,7 @@
 	"image": "http://mutom.studio/nft/youyan1.jpg",
 	"animation_url: "http://mutom.studio/nft/youyan1.mp4"
 	"name": "youyan test1",
-	"traits": [{
+	"attributes": [
 			"trait_type": "level",
 			"value": "SSR"
 		},
