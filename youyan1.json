@@ -1,0 +1,16 @@
+{
+	"description": "youyan test1 test1 test1 test1 test1",
+	"image": "http://mutom.studio/nft/youyan1.jpg",
+	"animation_url: "http://mutom.studio/nft/youyan1.mp4"
+	"name": "youyan test1",
+	"traits": [{
+			"trait_type": "level",
+			"value": "SSR"
+		},
+		{
+			"trait_type": "color",
+			"value": "red"
+		}
+
+	]
+}
